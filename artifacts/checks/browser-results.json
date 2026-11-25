@@ -1,0 +1,310 @@
+{
+ "at": "2026-11-25T07:13:05.353Z",
+ "results": [
+  {
+   "name": "1440: head metadata",
+   "passed": true,
+   "details": "{\"title\":\"The IMD Daily · The world of IMD\",\"canon\":\"https://imddaily.imd.site/\",\"ogu\":\"https://imddaily.imd.site/\",\"ogi\":\"https://imddaily.imd.site/art/newsroom.jpg\",\"icon\":\"./favicon.png\",\"desc\":\"Read The IMD Daily free, page by page, and collect a copy of each edition on Ethereum during its 24-hour window.\"}"
+  },
+  {
+   "name": "1440: no migration notice on the new address",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "1440: nav Subscribe visible in header",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "1440: every subscription link is exact, new tab, noopener noreferrer",
+   "passed": true,
+   "details": "Subscribe ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab)"
+  },
+  {
+   "name": "1440: homepage subscription section copy and position",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "1440: subscribe button opens exact Paper Route URL in new tab",
+   "passed": true,
+   "details": "https://paper-route.imd.site/"
+  },
+  {
+   "name": "1440: no horizontal overflow",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "1440: direct route + reload #/archive",
+   "passed": true,
+   "details": "The world of IMD."
+  },
+  {
+   "name": "1440: direct route + reload #/collection",
+   "passed": true,
+   "details": "My Collection"
+  },
+  {
+   "name": "1440: direct route + reload #/about",
+   "passed": true,
+   "details": "About The IMD Daily"
+  },
+  {
+   "name": "1440: direct route + reload #/vault",
+   "passed": true,
+   "details": "Vault"
+  },
+  {
+   "name": "1440: direct route + reload #/publisher",
+   "passed": true,
+   "details": "Publisher desk"
+  },
+  {
+   "name": "1440: direct route + reload #/issue/1",
+   "passed": true,
+   "details": "The IMD Daily — October 21, 2026"
+  },
+  {
+   "name": "1440: direct route + reload #/nope",
+   "passed": true,
+   "details": "Page not found"
+  },
+  {
+   "name": "1440: About explains Read / Collect / Subscribe with Paper Route link",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "1440: archive lists editions and search filters",
+   "passed": true,
+   "details": "34 editions"
+  },
+  {
+   "name": "1440: wallet sheet opens without connecting and closes on Escape",
+   "passed": true,
+   "details": "Connect a wallet / × / Browser wallet / Coinbase Wallet /  / Reading and downloads never need a wallet. Connect only to collect a copy."
+  },
+  {
+   "name": "1440: PDF reader renders a page and pages forward",
+   "passed": true,
+   "details": "page 1 → 2"
+  },
+  {
+   "name": "1440: PDF download saves a real PDF",
+   "passed": true,
+   "details": "imd-daily-34.pdf 3110643 bytes"
+  },
+  {
+   "name": "1440: no page errors; only non-2xx are the known public-RPC eth_getLogs refusals",
+   "passed": true,
+   "details": "34 RPC getLogs refusals (range halving fallback); upload-service /health CORS-blocked from new origin: yes (pending ALLOWED_ORIGINS); 0 other"
+  },
+  {
+   "name": "390: head metadata",
+   "passed": true,
+   "details": "{\"title\":\"The IMD Daily · The world of IMD\",\"canon\":\"https://imddaily.imd.site/\",\"ogu\":\"https://imddaily.imd.site/\",\"ogi\":\"https://imddaily.imd.site/art/newsroom.jpg\",\"icon\":\"./favicon.png\",\"desc\":\"Read The IMD Daily free, page by page, and collect a copy of each edition on Ethereum during its 24-hour window.\"}"
+  },
+  {
+   "name": "390: no migration notice on the new address",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "390: nav Subscribe visible in header",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "390: every subscription link is exact, new tab, noopener noreferrer",
+   "passed": true,
+   "details": "Subscribe ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab)"
+  },
+  {
+   "name": "390: homepage subscription section copy and position",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "390: subscribe button opens exact Paper Route URL in new tab",
+   "passed": true,
+   "details": "https://paper-route.imd.site/"
+  },
+  {
+   "name": "390: no horizontal overflow",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "390: direct route + reload #/archive",
+   "passed": true,
+   "details": "The world of IMD."
+  },
+  {
+   "name": "390: direct route + reload #/collection",
+   "passed": true,
+   "details": "My Collection"
+  },
+  {
+   "name": "390: direct route + reload #/about",
+   "passed": true,
+   "details": "About The IMD Daily"
+  },
+  {
+   "name": "390: direct route + reload #/vault",
+   "passed": true,
+   "details": "Vault"
+  },
+  {
+   "name": "390: direct route + reload #/publisher",
+   "passed": true,
+   "details": "Publisher desk"
+  },
+  {
+   "name": "390: direct route + reload #/issue/1",
+   "passed": true,
+   "details": "The IMD Daily — October 21, 2026"
+  },
+  {
+   "name": "390: direct route + reload #/nope",
+   "passed": true,
+   "details": "Page not found"
+  },
+  {
+   "name": "390: About explains Read / Collect / Subscribe with Paper Route link",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "390: archive lists editions and search filters",
+   "passed": true,
+   "details": "34 editions"
+  },
+  {
+   "name": "390: wallet sheet opens without connecting and closes on Escape",
+   "passed": true,
+   "details": "Connect a wallet / × / Browser wallet / Coinbase Wallet /  / Reading and downloads never need a wallet. Connect only to collect a copy."
+  },
+  {
+   "name": "390: PDF reader renders a page and pages forward",
+   "passed": true,
+   "details": "page 1 → 2"
+  },
+  {
+   "name": "390: no page errors; only non-2xx are the known public-RPC eth_getLogs refusals",
+   "passed": true,
+   "details": "32 RPC getLogs refusals (range halving fallback); upload-service /health CORS-blocked from new origin: yes (pending ALLOWED_ORIGINS); 0 other"
+  },
+  {
+   "name": "320: head metadata",
+   "passed": true,
+   "details": "{\"title\":\"The IMD Daily · The world of IMD\",\"canon\":\"https://imddaily.imd.site/\",\"ogu\":\"https://imddaily.imd.site/\",\"ogi\":\"https://imddaily.imd.site/art/newsroom.jpg\",\"icon\":\"./favicon.png\",\"desc\":\"Read The IMD Daily free, page by page, and collect a copy of each edition on Ethereum during its 24-hour window.\"}"
+  },
+  {
+   "name": "320: no migration notice on the new address",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "320: nav Subscribe visible in header",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "320: every subscription link is exact, new tab, noopener noreferrer",
+   "passed": true,
+   "details": "Subscribe ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab) | Subscribe via Paper Route ↗ (opens Paper Route in a new tab)"
+  },
+  {
+   "name": "320: homepage subscription section copy and position",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "320: subscribe button opens exact Paper Route URL in new tab",
+   "passed": true,
+   "details": "https://paper-route.imd.site/"
+  },
+  {
+   "name": "320: no horizontal overflow",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "320: direct route + reload #/archive",
+   "passed": true,
+   "details": "The world of IMD."
+  },
+  {
+   "name": "320: direct route + reload #/collection",
+   "passed": true,
+   "details": "My Collection"
+  },
+  {
+   "name": "320: direct route + reload #/about",
+   "passed": true,
+   "details": "About The IMD Daily"
+  },
+  {
+   "name": "320: direct route + reload #/vault",
+   "passed": true,
+   "details": "Vault"
+  },
+  {
+   "name": "320: direct route + reload #/publisher",
+   "passed": true,
+   "details": "Publisher desk"
+  },
+  {
+   "name": "320: direct route + reload #/issue/1",
+   "passed": true,
+   "details": "The IMD Daily — October 21, 2026"
+  },
+  {
+   "name": "320: direct route + reload #/nope",
+   "passed": true,
+   "details": "Page not found"
+  },
+  {
+   "name": "320: About explains Read / Collect / Subscribe with Paper Route link",
+   "passed": true,
+   "details": ""
+  },
+  {
+   "name": "320: archive lists editions and search filters",
+   "passed": true,
+   "details": "34 editions"
+  },
+  {
+   "name": "320: no page errors; only non-2xx are the known public-RPC eth_getLogs refusals",
+   "passed": true,
+   "details": "20 RPC getLogs refusals (range halving fallback); upload-service /health CORS-blocked from new origin: yes (pending ALLOWED_ORIGINS); 0 other"
+  },
+  {
+   "name": "legacy: probe fails → stays, shows notice with same-route link",
+   "passed": true,
+   "details": "https://imddaily.imd.site/#/archive"
+  },
+  {
+   "name": "legacy: probe succeeds, untouched → redirected keeping route",
+   "passed": true,
+   "details": "https://imddaily.imd.site/?ref=x#/issue/1"
+  },
+  {
+   "name": "legacy: probe succeeds but reader already interacting → no redirect",
+   "passed": true,
+   "details": "https://the-imd-daily-free-to-read-colle.sites.imd.fun/#/read/1"
+  },
+  {
+   "name": "publisher desk on new origin explains pending ALLOWED_ORIGINS",
+   "passed": true,
+   "details": "https://the-imd-daily-free-to-read-colle.sites.imd.fun/#/publisher"
+  },
+  {
+   "name": "legacy: publisher desk never redirected",
+   "passed": true,
+   "details": "https://the-imd-daily-free-to-read-colle.sites.imd.fun/#/publisher"
+  }
+ ]
+}
